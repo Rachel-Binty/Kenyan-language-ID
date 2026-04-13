@@ -1,136 +1,1001 @@
 Text,Language
-"The students are preparing for their final exams.","English"
-"Innovation drives the tech industry forward.","English"
-"Government announces new education policies.","English"
-"The weather is quite rainy today in Nairobi.","English"
-"She is working on her software engineering project.","English"
-"Artificial intelligence is changing how we work.","English"
-"Please submit your assignments before Friday.","English"
-"The university hosted a great career fair.","English"
-"I am learning how to use Streamlit for NLP.","English"
-"Health and wellness are important for students.","English"
-"We should protect the environment for the future.","English"
-"The football match starts at exactly four.","English"
-"Cloud computing is a great career path.","English"
-"He decided to take a walk in the park.","English"
-"Reading books helps to expand your knowledge.","English"
-"The food at the cafeteria was delicious.","English"
-"Education is the key to a better future.","English"
-"Technology is evolving at a very fast pace.","English"
-"The sun rises in the east every morning.","English"
-"They traveled to Mombasa for the holidays.","English"
-"A healthy diet consists of fruits and vegetables.","English"
-"The library is a quiet place for study.","English"
-"She wrote a beautiful poem about nature.","English"
-"The internet connects people from all over.","English"
-"He likes to play the guitar in his free time.","English"
-"Ninakupenda sana na nitakujali kila siku.","Swahili"
-"Leo kuna joto sana jijini Nairobi.","Swahili"
-"Karibu katika mkutano wetu wa leo jioni.","Swahili"
-"Mama amenda sokoni kununua mboga na matunda.","Swahili"
-"Tunapaswa kuheshimu utamaduni wa kila mtu.","Swahili"
-"Habari gani rafiki yangu wa tangu utotoni?","Swahili"
-"Kenya ni nchi nzuri yenye mbuga nyingi.","Swahili"
-"Maisha ni safari ndefu yenye changamoto nyingi.","Swahili"
-"Kijana yule anasoma kwa bidii ili afanikiwe.","Swahili"
-"Maji ni uhai kwa kila kiumbe duniani.","Swahili"
-"Umoja ni nguvu na utengano ni udhaifu.","Swahili"
-"Tafadhali nisaidie na kile kitabu cha hesabu.","Swahili"
-"Sisi sote ni ndugu katika taifa hili letu.","Swahili"
-"Mvua imeanza kunyesha kwa wingi sana leo.","Swahili"
-"Chakula hiki kina ladha nzuri ajabu.","Swahili"
-"Shule zitafungwa wiki ijayo kwa likizo.","Swahili"
-"Jua linazama na anga ni rangi ya machungwa.","Swahili"
-"Asante kwa msaada wako wa ukarimu.","Swahili"
-"Napenda kusikiliza muziki wa kitamaduni.","Swahili"
-"Barabara za jiji zina msongamano wa magari.","Swahili"
-"Kazi ya mikono hulipa vizuri sana hapa.","Swahili"
-"Tunaenda kutembelea babu kule kijijini.","Swahili"
-"Miti husaidia kusafisha hewa tunayovuta.","Swahili"
-"Usikate tamaa, kesho itakuwa siku bora.","Swahili"
-"Nitakupigia simu tukifika nyumbani.","Swahili"
-"Sasa wasee tujuane mtaa tuchanue rada.","Sheng"
-"Inakuaje msee leo tunajipanga aje kimpango?","Sheng"
-"Tugende job kesho mapema sana tuchanuke.","Sheng"
-"Rada ni chafu pande hii ya mtaa leo.","Sheng"
-"Wewe ni mnoma sana kwa hizi mbwebe.","Sheng"
-"Manze hiyo risto ilinitambua sana jana.","Sheng"
-"Tuonane base ya kawa tuchige story mob.","Sheng"
-"Maze huyu msee anajipiga miondoko sana.","Sheng"
-"Hiyo luku yako leo imetokelezea mbaya.","Sheng"
-"Si tuende mtaani tukacheki hiyo game.","Sheng"
-"Budda randa ni gani pande hizo zenyu?","Sheng"
-"Yule dem ni mjanja amechanuka kinoma.","Sheng"
-"Tunaenda kudunda kuanzia saa nne usiku.","Sheng"
-"Kula mullah kwanza ndio upige sherehe.","Sheng"
-"Wasee wote wako rada na hii mambo.","Sheng"
-"Niaje jo, uko fiti ama uko chini?","Sheng"
-"Hiyo ngoma inabamba kinoma kwa klabu.","Sheng"
-"Acha niitaitie huyo msee kwa simu.","Sheng"
-"Tunaenda kwa mtaa kutafta ma-ganji leo.","Sheng"
-"Si tuchill hapa hivi kiasi randa itulie.","Sheng"
-"Huyu msee ana piga story za jaba tupu.","Sheng"
-"Leta hiyo design niicheki kama ni fiti.","Sheng"
-"Tunasonga mbele hatuagushwi na hizi risto.","Sheng"
-"Kuna mathree inapita hapa sasa hivi.","Sheng"
-"Wacha ni-grab kanyam kwa kibanda hapa.","Sheng"
-"An gi tich matek e puodho kendo an gi nyadhi.","Luo"
-"Idhi kanye nyathi ma nyako ma niber?","Luo"
-"Omera nitie kod gimoro amora ma itimo.","Luo"
-"Adwaro chiemo nikech kech koro nega.","Luo"
-"Nyasaye ogwedhi e tich ma itimo kawuono.","Luo"
-"Mano en hera makende ma an-go ni in.","Luo"
-"Iriti maber nyaka wadere kendo saa machielo.","Luo"
-"Ang'o ma itimo e dala ka gima itoro?","Luo"
-"Piny nger nikech nyasaye ema oloye duto.","Luo"
-"Pi en ngima ni dhano kod le duto.","Luo"
-"Ber na iyie ni wadhi e chiro kendo.","Luo"
-"Wuora ohero dhi e puodho gokinyi mang'ich.","Luo"
-"Nyithindo go lwedo nikech gimor kendo.","Luo"
-"Cham chak ma nyuol osetimo maber koro.","Luo"
-"Welo obiro dala kendo wadwaro miyo gi chiemo.","Luo"
-"Ng'ato ka ng'ato nigi kaka odwaro dak.","Luo"
-"Erokamano namba itimo gima neno maber.","Luo"
-"Aheri matek ahinya mama ni nyakwarwa.","Luo"
-"Wadhi e kanisa mondo walam nyasaye marwa.","Luo"
-"Koth ochako chue kendo piny koro ng'ich.","Luo"
-"Bende inyalo konyo nyako ma oywak ni?","Luo"
-"Dhero en gimoro ma dhano ok ohero.","Luo"
-"Nyinga en Rachel kendo an-go tich matek.","Luo"
-"Mach en gima wang'o piny ka ok irite.","Luo"
-"Mano en tich motegno ma chulo maber.","Luo"
-"Niko home nikicheki YouTube sasa.","Mixed"
-"Tunaenda lunch saa nane mchana.","Mixed"
-"Please nitumie hiyo file kwa WhatsApp.","Mixed"
-"Leo niko busy sana na school project.","Mixed"
-"Unakuja kwa meeting yetu kesho?","Mixed"
-"Nimesahau my keys kwa gari.","Mixed"
-"Hiyo dress yako inakaa so smart.","Mixed"
-"Wacha nimalize my assignment kwanza.","Mixed"
-"Tunaona hiyo movie saa ngapi tonight?","Mixed"
-"Naomba unipatie your phone number tafadhali.","Mixed"
-"Daktari alisema nikuwe on bed rest.","Mixed"
-"Sisi wote tuko ready kwa presentation.","Mixed"
-"Nipee direction ya kwenda kwa office.","Mixed"
-"Yule kijana ako so talented kwa sports.","Mixed"
-"Chakula ilikuwa cold sana kwa restaurant.","Mixed"
-"Nitumie hiyo location nitumie Uber.","Mixed"
-"Sina bundle za kutosha ku-watch videos.","Mixed"
-"Walimu wako on strike tangu Monday.","Mixed"
-"Tukutane kwa stage ya bus saa kumi.","Mixed"
-"I am waiting kwa foleni ya bank.","Mixed"
-"Ngoja nivae my shoes ndio tutoke.","Mixed"
-"Hiyo duka iko open mpaka usiku.","Mixed"
-"Nimepoteza my student ID jana usiku.","Mixed"
-"Usiwahi lose hope kwa maisha yako.","Mixed"
-"Kila mtu ako invited kwa party yangu.","Mixed"
-"I am going to the soko right now.","Mixed"
-"Alienda school mapema leo asubuhi.","Mixed"
-"Niko kwa office nafanya kazi yangu.","Mixed"
-"Please nitumie message kwa simu yako.","Mixed"
-"Chakula ilikuwa delicious sana jana usiku.","Mixed"
-"Tunaenda holiday mwezi ujao kule pwani.","Mixed"
-"Nimepoteza my phone kwa gari ya msee.","Mixed"
-"Wewe ni my best friend kabisa.","Mixed"
-"Anapenda ku-watch football kila weekend.","Mixed"
-"Nitumie link ya hiyo meeting ya leo.","Mixed"
+The students are preparing for their final exams.,English
+Innovation drives the tech industry forward.,English
+Government announces new education policies.,English
+The weather is quite rainy today in Nairobi.,English
+She is working on her software engineering project.,English
+Artificial intelligence is changing how we work.,English
+Please submit your assignments before Friday.,English
+The university hosted a great career fair.,English
+I am learning how to use Streamlit for NLP.,English
+Health and wellness are important for students.,English
+We should protect the environment for the future.,English
+The football match starts at exactly four.,English
+Cloud computing is a great career path.,English
+He decided to take a walk in the park.,English
+Reading books helps to expand your knowledge.,English
+The food at the cafeteria was delicious.,English
+Education is the key to a better future.,English
+Technology is evolving at a very fast pace.,English
+The sun rises in the east every morning.,English
+They traveled to Mombasa for the holidays.,English
+A healthy diet consists of fruits and vegetables.,English
+The library is a quiet place for study.,English
+She wrote a beautiful poem about nature.,English
+The internet connects people from all over.,English
+He likes to play the guitar in his free time.,English
+The hospital released new guidelines for patients.,English
+She graduated with honors from the university.,English
+The team worked hard to meet the deadline.,English
+Nairobi traffic is always terrible on Mondays.,English
+The new phone model was released last week.,English
+He passed his driving test on the first attempt.,English
+The students organized a charity event on campus.,English
+She applied for a scholarship to study abroad.,English
+The conference brought together experts from many fields.,English
+He enjoys hiking in the hills every weekend.,English
+The government launched a new housing project today.,English
+She cooked a wonderful meal for the family.,English
+The children played outside until sunset.,English
+He fixed the bug in the code after three hours.,English
+The election results were announced early this morning.,English
+She joined a new gym to stay fit.,English
+The bank increased its interest rates this quarter.,English
+He donated clothes to the local charity.,English
+The movie received excellent reviews from critics.,English
+She planted vegetables in the backyard garden.,English
+The company launched its new product last Monday.,English
+He studied all night for the morning examination.,English
+The market was crowded with shoppers on Saturday.,English
+She learned how to code using online tutorials.,English
+The principal addressed the students during assembly.,English
+The bus arrived thirty minutes late today.,English
+She bought a new laptop for her studies.,English
+The researchers published their findings last month.,English
+He celebrated his birthday with close friends.,English
+The power went out for two hours last night.,English
+She received a promotion at her workplace.,English
+The farmers harvested their crops before the rains.,English
+He lost his wallet on the matatu yesterday.,English
+The school introduced new digital learning tools.,English
+She volunteers at the orphanage every Sunday.,English
+The mechanic repaired the car in one afternoon.,English
+He reads the newspaper every morning with tea.,English
+The construction of the new road is almost complete.,English
+She won first prize in the science competition.,English
+The hospital has new equipment for surgeries.,English
+He wrote a letter to his friend in Uganda.,English
+The youth organized a clean-up drive in the estate.,English
+She registered for the upcoming marathon next month.,English
+The pastor delivered a powerful sermon on Sunday.,English
+He repaired the roof before the long rains.,English
+The campus canteen was renovated over the holiday.,English
+She learned how to drive during the semester break.,English
+The journalist reported from the scene of the accident.,English
+He sent his CV to ten companies this week.,English
+The water pump broke down and left us with no water.,English
+Ninakupenda sana na nitakujali kila siku.,Swahili
+Leo kuna joto sana jijini Nairobi.,Swahili
+Karibu katika mkutano wetu wa leo jioni.,Swahili
+Mama amenda sokoni kununua mboga na matunda.,Swahili
+Tunapaswa kuheshimu utamaduni wa kila mtu.,Swahili
+Habari gani rafiki yangu wa tangu utotoni?,Swahili
+Kenya ni nchi nzuri yenye mbuga nyingi.,Swahili
+Maisha ni safari ndefu yenye changamoto nyingi.,Swahili
+Kijana yule anasoma kwa bidii ili afanikiwe.,Swahili
+Maji ni uhai kwa kila kiumbe duniani.,Swahili
+Umoja ni nguvu na utengano ni udhaifu.,Swahili
+Tafadhali nisaidie na kile kitabu cha hesabu.,Swahili
+Sisi sote ni ndugu katika taifa hili letu.,Swahili
+Mvua imeanza kunyesha kwa wingi sana leo.,Swahili
+Chakula hiki kina ladha nzuri ajabu.,Swahili
+Shule zitafungwa wiki ijayo kwa likizo.,Swahili
+Jua linazama na anga ni rangi ya machungwa.,Swahili
+Asante kwa msaada wako wa ukarimu.,Swahili
+Napenda kusikiliza muziki wa kitamaduni.,Swahili
+Barabara za jiji zina msongamano wa magari.,Swahili
+Kazi ya mikono hulipa vizuri sana hapa.,Swahili
+Tunaenda kutembelea babu kule kijijini.,Swahili
+Miti husaidia kusafisha hewa tunayovuta.,Swahili
+"Usikate tamaa, kesho itakuwa siku bora.",Swahili
+Nitakupigia simu tukifika nyumbani.,Swahili
+Watoto wanacheza mpira baada ya shule.,Swahili
+Serikali imepanga mikakati ya kuboresha elimu.,Swahili
+Hospitali mpya inajengwa karibu na mji wetu.,Swahili
+Ndege iliruka kutoka uwanja wa ndege asubuhi.,Swahili
+Baba yangu analima shamba kila asubuhi mapema.,Swahili
+Tunahitaji kulinda misitu yetu kwa siku zijazo.,Swahili
+Dawa hii inasaidia kupunguza maumivu ya kichwa.,Swahili
+Mtoto wangu amefaulu mitihani yake vizuri sana.,Swahili
+Wanafunzi walisherehekea siku ya utamaduni shuleni.,Swahili
+Mvua ya mawe ilisababisha hasara kubwa mashambani.,Swahili
+Mwalimu alielezea somo kwa uvumilivu mkubwa.,Swahili
+Tunaomba amani na utulivu katika nchi yetu.,Swahili
+Biashara ndogo ndogo zinachangia uchumi wa nchi.,Swahili
+Nyumba mpya inajengwa kwa nguvu nyingi sana.,Swahili
+Vijana wanapaswa kujifunza stadi za maisha mapema.,Swahili
+Polisi walifika haraka baada ya kupigwa simu.,Swahili
+Soko la Gikomba lina bidhaa nyingi za bei nafuu.,Swahili
+Watoto wanapenda kula pipi na chokoleti nyingi.,Swahili
+Kampuni ya simu imetoa ofa mpya kwa wateja.,Swahili
+Mazingira safi yanasaidia afya ya kila mtu.,Swahili
+Msichana yule amesoma sana hadi akafaulu vizuri.,Swahili
+Umeme ulizimwa kwa muda wa masaa mawili usiku.,Swahili
+Chakula cha asubuhi ni muhimu kwa nguvu za mwili.,Swahili
+Ziwa Victoria ni ziwa kubwa sana barani Afrika.,Swahili
+Mchezaji huyo alipiga goli zuri sana mchezo wa leo.,Swahili
+Wimbo huu unanigusa moyo kila niusikiapo.,Swahili
+Familia yangu inakaa pamoja kila Jumapili usiku.,Swahili
+Gari la moshi lilifika stesheni kwa wakati.,Swahili
+Mtoto alipoteza kitabu chake darasa la tatu.,Swahili
+Dada yangu anafanya kazi benki mjini Nairobi.,Swahili
+Shamba letu lina matunda mengi msimu huu.,Swahili
+Wazazi wanapaswa kutumia muda na watoto wao.,Swahili
+Barua pepe iliwasilishwa kwa makosa kwa mtu mwingine.,Swahili
+Timu yetu ilicheza vizuri na kushinda mechi leo.,Swahili
+Mgonjwa alifika hospitali akiwa na hali mbaya sana.,Swahili
+Darasa letu lina wanafunzi arobaini na watano.,Swahili
+Nyota zinang'aa sana usiku wa leo hapa.,Swahili
+Mto Tana una maji mengi wakati wa masika.,Swahili
+Sasa wasee tujuane mtaa tuchanue rada.,Sheng
+Inakuaje msee leo tunajipanga aje kimpango?,Sheng
+Tugende job kesho mapema sana tuchanuke.,Sheng
+Rada ni chafu pande hii ya mtaa leo.,Sheng
+Wewe ni mnoma sana kwa hizi mbwebe.,Sheng
+Manze hiyo risto ilinitambua sana jana.,Sheng
+Tuonane base ya kawa tuchige story mob.,Sheng
+Maze huyu msee anajipiga miondoko sana.,Sheng
+Hiyo luku yako leo imetokelezea mbaya.,Sheng
+Si tuende mtaani tukacheki hiyo game.,Sheng
+Budda randa ni gani pande hizo zenyu?,Sheng
+Yule dem ni mjanja amechanuka kinoma.,Sheng
+Tunaenda kudunda kuanzia saa nne usiku.,Sheng
+Kula mullah kwanza ndio upige sherehe.,Sheng
+Wasee wote wako rada na hii mambo.,Sheng
+"Niaje jo, uko fiti ama uko chini?",Sheng
+Hiyo ngoma inabamba kinoma kwa klabu.,Sheng
+Acha niitaitie huyo msee kwa simu.,Sheng
+Tunaenda kwa mtaa kutafta ma-ganji leo.,Sheng
+Si tuchill hapa hivi kiasi randa itulie.,Sheng
+Huyu msee ana piga story za jaba tupu.,Sheng
+Leta hiyo design niicheki kama ni fiti.,Sheng
+Tunasonga mbele hatuagushwi na hizi risto.,Sheng
+Kuna mathree inapita hapa sasa hivi.,Sheng
+Wacha ni-grab kanyam kwa kibanda hapa.,Sheng
+Msee yule ana pesa mob anajifanya mjanja.,Sheng
+Hiyo keja yake ni fiti sana kwa real.,Sheng
+Tushike hapo buda usiku wa leo kabisa.,Sheng
+Sijui kama tutafika time hiyo gari imekufa.,Sheng
+Maze demo hii ilikuwa fire kabisa usiku.,Sheng
+Watu wa mtaa wanajua story zote za hapa.,Sheng
+Nilikuwa naenda kudai kakitu kidogo area.,Sheng
+Maze hiyo maneno ulifanya vibaya sana boss.,Sheng
+Dem yule alikuwa na vibes mob jana usiku.,Sheng
+Buda usisahau kuleta mchele kwa nyumba leo.,Sheng
+Hiyo ngozi yako leo imekaa fiti kabisa.,Sheng
+Maze watu wa klabu hawakuacha kuimba usiku.,Sheng
+Tulikuwa tukicheki movies mpaka alfajiri leo.,Sheng
+Msee ana sherehekea birthday yake saa hii.,Sheng
+Wacha niingie ndani nipumzike kiasi sasa.,Sheng
+Hiyo beat mpya ya msanii huyo inabamba sana.,Sheng
+Buda leo niko na njaa mob niambie wapi kula.,Sheng
+Maze hiyo job mpya itamlipa vizuri msee.,Sheng
+Wasee wa area wanajuana tangu wadogo sana.,Sheng
+Acha mambo ya jaba usome kwa bidii buda.,Sheng
+Hiyo mtu alikuwa anapiga kelele mtaani usiku.,Sheng
+Maze sitaki kelele leo niache nipumzike tu.,Sheng
+Tukae chini tuongee story hii vizuri buda.,Sheng
+Huyo msee ana hustle mob kila siku bila kupumzika.,Sheng
+Vibes ya leo usiku itakuwa fire kabisa.,Sheng
+Maze sikujua hiyo ngoma mpya imekuja sokoni.,Sheng
+Buda nipe mkono kidogo leo sina kakitu.,Sheng
+Hiyo maneno yangu ni ya kweli kabisa buda.,Sheng
+Msee yule ana run biashara yake fiti sana.,Sheng
+Tuende tuone hiyo mtu wanasema ana skills.,Sheng
+Maze hiyo dress ya huyo dem ilikuwa poa sana.,Sheng
+Nitakuja kwa base yako baadaye leo usiku.,Sheng
+Hiyo show ilikuwa ya moto kabisa jana usiku.,Sheng
+Buda usijali watu wa nje waendelee na mambo yao.,Sheng
+Maze saa hii niko kwa jam kubwa sana mtaani.,Sheng
+Wasee wa cyber wanajua hizi vitu vizuri kabisa.,Sheng
+An gi tich matek e puodho kendo an gi nyadhi.,Luo
+Idhi kanye nyathi ma nyako ma niber?,Luo
+Omera nitie kod gimoro amora ma itimo.,Luo
+Adwaro chiemo nikech kech koro nega.,Luo
+Nyasaye ogwedhi e tich ma itimo kawuono.,Luo
+Mano en hera makende ma an-go ni in.,Luo
+Iriti maber nyaka wadere kendo saa machielo.,Luo
+Ang'o ma itimo e dala ka gima itoro?,Luo
+Piny nger nikech nyasaye ema oloye duto.,Luo
+Pi en ngima ni dhano kod le duto.,Luo
+Ber na iyie ni wadhi e chiro kendo.,Luo
+Wuora ohero dhi e puodho gokinyi mang'ich.,Luo
+Nyithindo go lwedo nikech gimor kendo.,Luo
+Cham chak ma nyuol osetimo maber koro.,Luo
+Welo obiro dala kendo wadwaro miyo gi chiemo.,Luo
+Ng'ato ka ng'ato nigi kaka odwaro dak.,Luo
+Erokamano namba itimo gima neno maber.,Luo
+Aheri matek ahinya mama ni nyakwarwa.,Luo
+Wadhi e kanisa mondo walam nyasaye marwa.,Luo
+Koth ochako chue kendo piny koro ng'ich.,Luo
+Bende inyalo konyo nyako ma oywak ni?,Luo
+Dhero en gimoro ma dhano ok ohero.,Luo
+Nyinga en Rachel kendo an-go tich matek.,Luo
+Mach en gima wang'o piny ka ok irite.,Luo
+Mano en tich motegno ma chulo maber.,Luo
+Wuod dala obiro maro chiemo mar dala.,Luo
+Gima itiyo kawuono biro konyi dwe mabiro.,Luo
+Yaye ne wuoyo kod nyithindo e ot.,Luo
+Omera wadhi e nama mondo wanam rech.,Luo
+Luo en dhok maber ma ji ohero wuoyo.,Luo
+Puodho osedo maber kendo cham biro bedo mang'eny.,Luo
+Jathieth obiro dala mondo onej nyathi matuo.,Luo
+Wach ma owacho en adier mak ogombo.,Luo
+Nyako ma ber osebedo gi teko mar somo.,Luo
+Gima ahere moloyo en dala gi jooda duto.,Luo
+Rawera en gima ber ni dhano duto.,Luo
+Joluo ohero mor kod wer e keyo.,Luo
+Wan waduto wabiro chopo e kend mar nyasaye.,Luo
+Ng'at ma ohero tich biro yudo gima ohero.,Luo
+Wuora owacho ni wadhi dala oko seche mang'eny.,Luo
+Nyithindo mag kawuono ohero game mar bal tyer.,Luo
+Gima omiya mor en lamo mar okinyi.,Luo
+In gi teko mar timo gima ichwaro timo.,Luo
+Odiechieng maber en ma wan-go gi jooda.,Luo
+Siko mar joluo en ma ber miweyore.,Luo
+Welo ma obiro dala noyudo chiemo mang'eny.,Luo
+Omera mondo iyud teko e tich ma itimo.,Luo
+Osiep maber en ma nitie ka irembo.,Luo
+Giko mar tich ne wuoyo gi mor maduong.,Luo
+Dhano duto nitie gima onego otim e ngima.,Luo
+Wuod nam en ng'at ma ong'eyo rech maber.,Luo
+Chiemo mar joluo en moo yot kod aliya.,Luo
+Nyasaye telo e yo duto ma wadhi iye.,Luo
+Joka dala biro karuok e dwe ma biro.,Luo
+Wuora osetimo tich matek ni wadhi maber.,Luo
+Ng'ama ohero somo biro yudo ngima maber.,Luo
+Loch maber biro a e chuny mar ng'at maber.,Luo
+Gima ipar kawuono biro kony dwe machielo.,Luo
+Yaye ne wer wer e ot kar lamo.,Luo
+Tiyo gi chuny duto e tich mimiyi en ber.,Luo
+Oganda joluo nigi siko mabeyo moloyo mang'eny.,Luo
+Omera koth ochako chue koro wadhi e ot.,Luo
+Wuod dala osomo maber kendo osenyalo timo tich.,Luo
+Niko home nikicheki YouTube sasa.,Mixed
+Tunaenda lunch saa nane mchana.,Mixed
+Please nitumie hiyo file kwa WhatsApp.,Mixed
+Leo niko busy sana na school project.,Mixed
+Unakuja kwa meeting yetu kesho?,Mixed
+Nimesahau my keys kwa gari.,Mixed
+Hiyo dress yako inakaa so smart.,Mixed
+Wacha nimalize my assignment kwanza.,Mixed
+Tunaona hiyo movie saa ngapi tonight?,Mixed
+Naomba unipatie your phone number tafadhali.,Mixed
+Daktari alisema nikuwe on bed rest.,Mixed
+Sisi wote tuko ready kwa presentation.,Mixed
+Nipee direction ya kwenda kwa office.,Mixed
+Yule kijana ako so talented kwa sports.,Mixed
+Chakula ilikuwa cold sana kwa restaurant.,Mixed
+Nitumie hiyo location nitumie Uber.,Mixed
+Sina bundle za kutosha ku-watch videos.,Mixed
+Walimu wako on strike tangu Monday.,Mixed
+Tukutane kwa stage ya bus saa kumi.,Mixed
+I am waiting kwa foleni ya bank.,Mixed
+Ngoja nivae my shoes ndio tutoke.,Mixed
+Hiyo duka iko open mpaka usiku.,Mixed
+Nimepoteza my student ID jana usiku.,Mixed
+Usiwahi lose hope kwa maisha yako.,Mixed
+Kila mtu ako invited kwa party yangu.,Mixed
+I am going to the soko right now.,Mixed
+Alienda school mapema leo asubuhi.,Mixed
+Niko kwa office nafanya kazi yangu.,Mixed
+Please nitumie message kwa simu yako.,Mixed
+Chakula ilikuwa delicious sana jana usiku.,Mixed
+Tunaenda holiday mwezi ujao kule pwani.,Mixed
+Nimepoteza my phone kwa gari ya msee.,Mixed
+Wewe ni my best friend kabisa.,Mixed
+Anapenda ku-watch football kila weekend.,Mixed
+Nitumie link ya hiyo meeting ya leo.,Mixed
+Nimedownload app mpya kwa phone yangu.,Mixed
+Tafadhali nisaidie ku-print document hii haraka.,Mixed
+Niko on my way nakuja saa moja.,Mixed
+Hiyo laptop yako iko slow sana leo.,Mixed
+Naomba ukague email yako kwa details zaidi.,Mixed
+Tumefika airport saa mbili before time yetu.,Mixed
+Kesho tuna test ya math saa nne asubuhi.,Mixed
+Unaweza ku-share screen yako kwa meeting?,Mixed
+Nimeweka reminder kwa phone yangu ya appointment.,Mixed
+Hiyo WiFi inafanya kazi vibaya sana leo.,Mixed
+Tutaonana kwa event ya Friday usiku hapa.,Mixed
+Nimejaza form yote na kusubmit online.,Mixed
+Tafadhali confirm attendance yako kwa event hii.,Mixed
+Nimemaliza ku-edit video yangu ya project.,Mixed
+Unaenda gym saa ngapi leo jioni?,Mixed
+Nimepata internship kwa kampuni nzuri mjini.,Mixed
+Tukutane kwa coffee kesho asubuhi saa tatu.,Mixed
+Nimesoma notes zangu zote kwa exam ya kesho.,Mixed
+Hiyo presentation yako ilikuwa very impressive sana.,Mixed
+Nimetuma CV yangu kwa jobs tano wiki hii.,Mixed
+Unaweza kunisaidia ku-fix bug hii kwa code?,Mixed
+Nimepanga kufanya shopping baada ya class leo.,Mixed
+Tafadhali usiforget kulipa rent mwezi huu.,Mixed
+Niko kwa library nikiread kwa exam ya Thursday.,Mixed
+Hiyo network coverage hapa ni mbaya sana.,Mixed
+Tunaenda road trip Nakuru weekend ijayo.,Mixed
+Nimepiga picha nyingi kwa camera yangu mpya.,Mixed
+Please usinisumbue niko kwa class saa hii.,Mixed
+Nimekuwa nikiwatch series mpya kwa Netflix usiku.,Mixed
+Hiyo bei ya petrol imepanda tena wiki hii.,Mixed
+Tunaenda kuosha gari baada ya lunch saa hii.,Mixed
+She registered for the upcoming marathon next month.,English
+The pastor delivered a powerful sermon on Sunday.,English
+He repaired the roof before the long rains.,English
+The campus canteen was renovated over the holiday.,English
+She learned how to drive during the semester break.,English
+The journalist reported from the scene of the accident.,English
+He sent his CV to ten companies this week.,English
+The water pump broke down and left us with no water.,English
+The nurse administered the vaccine to the children.,English
+He read the entire novel in one afternoon.,English
+The debate team prepared for the national competition.,English
+She organized her files before the office audit.,English
+The farmer sold maize at the cooperative society.,English
+He fixed the leaking pipe before the landlord noticed.,English
+The coach trained the team every evening after school.,English
+She received a scholarship to study computer science.,English
+The accountant filed the tax returns before the deadline.,English
+He downloaded the lecture notes before the internet cut.,English
+The students held a debate about climate change.,English
+She baked a birthday cake for her younger brother.,English
+The new supermarket opened in the estate last week.,English
+He updated his LinkedIn profile with his new skills.,English
+The power bank saved his phone during the long trip.,English
+She donated blood at the hospital on her birthday.,English
+The community organized a fundraiser for flood victims.,English
+Watoto wanacheza mpira baada ya shule.,Swahili
+Serikali imepanga mikakati ya kuboresha elimu.,Swahili
+Hospitali mpya inajengwa karibu na mji wetu.,Swahili
+Ndege iliruka kutoka uwanja wa ndege asubuhi.,Swahili
+Baba yangu analima shamba kila asubuhi mapema.,Swahili
+Tunahitaji kulinda misitu yetu kwa siku zijazo.,Swahili
+Dawa hii inasaidia kupunguza maumivu ya kichwa.,Swahili
+Mtoto wangu amefaulu mitihani yake vizuri sana.,Swahili
+Wanafunzi walisherehekea siku ya utamaduni shuleni.,Swahili
+Mvua ya mawe ilisababisha hasara kubwa mashambani.,Swahili
+Mwalimu alielezea somo kwa uvumilivu mkubwa.,Swahili
+Tunaomba amani na utulivu katika nchi yetu.,Swahili
+Biashara ndogo ndogo zinachangia uchumi wa nchi.,Swahili
+Nyumba mpya inajengwa kwa nguvu nyingi sana.,Swahili
+Vijana wanapaswa kujifunza stadi za maisha mapema.,Swahili
+Polisi walifika haraka baada ya kupigwa simu.,Swahili
+Soko la Gikomba lina bidhaa nyingi za bei nafuu.,Swahili
+Watoto wanapenda kula pipi na chokoleti nyingi.,Swahili
+Kampuni ya simu imetoa ofa mpya kwa wateja.,Swahili
+Mazingira safi yanasaidia afya ya kila mtu.,Swahili
+Msichana yule amesoma sana hadi akafaulu vizuri.,Swahili
+Umeme ulizimwa kwa muda wa masaa mawili usiku.,Swahili
+Chakula cha asubuhi ni muhimu kwa nguvu za mwili.,Swahili
+Ziwa Victoria ni ziwa kubwa sana barani Afrika.,Swahili
+Mchezaji huyo alipiga goli zuri sana mchezo wa leo.,Swahili
+Wimbo huu unanigusa moyo kila niusikiapo.,Swahili
+Familia yangu inakaa pamoja kila Jumapili usiku.,Swahili
+Gari la moshi lilifika stesheni kwa wakati.,Swahili
+Mtoto alipoteza kitabu chake darasa la tatu.,Swahili
+Dada yangu anafanya kazi benki mjini Nairobi.,Swahili
+Shamba letu lina matunda mengi msimu huu.,Swahili
+Wazazi wanapaswa kutumia muda na watoto wao.,Swahili
+Barua pepe iliwasilishwa kwa makosa kwa mtu mwingine.,Swahili
+Timu yetu ilicheza vizuri na kushinda mechi leo.,Swahili
+Mgonjwa alifika hospitali akiwa na hali mbaya sana.,Swahili
+Darasa letu lina wanafunzi arobaini na watano.,Swahili
+Nyota zinang'aa sana usiku wa leo hapa.,Swahili
+Msee yule ana pesa mob anajifanya mjanja.,Sheng
+Hiyo keja yake ni fiti sana kwa real.,Sheng
+Tushike hapo buda usiku wa leo kabisa.,Sheng
+Sijui kama tutafika time hiyo gari imekufa.,Sheng
+Maze demo hii ilikuwa fire kabisa usiku.,Sheng
+Watu wa mtaa wanajua story zote za hapa.,Sheng
+Nilikuwa naenda kudai kakitu kidogo area.,Sheng
+Maze hiyo maneno ulifanya vibaya sana boss.,Sheng
+Dem yule alikuwa na vibes mob jana usiku.,Sheng
+Buda usisahau kuleta mchele kwa nyumba leo.,Sheng
+Hiyo ngozi yako leo imekaa fiti kabisa.,Sheng
+Maze watu wa klabu hawakuacha kuimba usiku.,Sheng
+Tulikuwa tukicheki movies mpaka alfajiri leo.,Sheng
+Msee ana sherehekea birthday yake saa hii.,Sheng
+Wacha niingie ndani nipumzike kiasi sasa.,Sheng
+Hiyo beat mpya ya msanii huyo inabamba sana.,Sheng
+Buda leo niko na njaa mob niambie wapi kula.,Sheng
+Maze hiyo job mpya itamlipa vizuri msee.,Sheng
+Wasee wa area wanajuana tangu wadogo sana.,Sheng
+Acha mambo ya jaba usome kwa bidii buda.,Sheng
+Hiyo mtu alikuwa anapiga kelele mtaani usiku.,Sheng
+Maze sitaki kelele leo niache nipumzike tu.,Sheng
+Tukae chini tuongee story hii vizuri buda.,Sheng
+Huyo msee ana hustle mob kila siku bila kupumzika.,Sheng
+Vibes ya leo usiku itakuwa fire kabisa.,Sheng
+Maze sikujua hiyo ngoma mpya imekuja sokoni.,Sheng
+Buda nipe mkono kidogo leo sina kakitu.,Sheng
+Hiyo maneno yangu ni ya kweli kabisa buda.,Sheng
+Msee yule ana run biashara yake fiti sana.,Sheng
+Tuende tuone hiyo mtu wanasema ana skills.,Sheng
+Maze hiyo dress ya huyo dem ilikuwa poa sana.,Sheng
+Nitakuja kwa base yako baadaye leo usiku.,Sheng
+Hiyo show ilikuwa ya moto kabisa jana usiku.,Sheng
+Buda usijali watu wa nje waendelee na mambo yao.,Sheng
+Maze saa hii niko kwa jam kubwa sana mtaani.,Sheng
+Wasee wa cyber wanajua hizi vitu vizuri kabisa.,Sheng
+Kapsa hiyo game mpya imekuja fiti sana buda.,Sheng
+Msee amenitumia pesa kwa mpesa asubuhi leo.,Sheng
+Tulifika base yake tukakuta hana mtu kabisa.,Sheng
+Wuod dala obiro maro chiemo mar dala.,Luo
+Gima itiyo kawuono biro konyi dwe mabiro.,Luo
+Yaye ne wuoyo kod nyithindo e ot.,Luo
+Omera wadhi e nama mondo wanam rech.,Luo
+Luo en dhok maber ma ji ohero wuoyo.,Luo
+Puodho osedo maber kendo cham biro bedo mang'eny.,Luo
+Jathieth obiro dala mondo onej nyathi matuo.,Luo
+Wach ma owacho en adier mak ogombo.,Luo
+Nyako ma ber osebedo gi teko mar somo.,Luo
+Gima ahere moloyo en dala gi jooda duto.,Luo
+Rawera en gima ber ni dhano duto.,Luo
+Joluo ohero mor kod wer e keyo.,Luo
+Wan waduto wabiro chopo e kend mar nyasaye.,Luo
+Ng'at ma ohero tich biro yudo gima ohero.,Luo
+Wuora owacho ni wadhi dala oko seche mang'eny.,Luo
+Nyithindo mag kawuono ohero game mar bal tyer.,Luo
+Gima omiya mor en lamo mar okinyi.,Luo
+In gi teko mar timo gima ichwaro timo.,Luo
+Odiechieng maber en ma wan-go gi jooda.,Luo
+Siko mar joluo en ma ber miweyore.,Luo
+Welo ma obiro dala noyudo chiemo mang'eny.,Luo
+Omera mondo iyud teko e tich ma itimo.,Luo
+Osiep maber en ma nitie ka irembo.,Luo
+Giko mar tich ne wuoyo gi mor maduong.,Luo
+Dhano duto nitie gima onego otim e ngima.,Luo
+Wuod nam en ng'at ma ong'eyo rech maber.,Luo
+Chiemo mar joluo en moo yot kod aliya.,Luo
+Nyasaye telo e yo duto ma wadhi iye.,Luo
+Joka dala biro karuok e dwe ma biro.,Luo
+Wuora osetimo tich matek ni wadhi maber.,Luo
+Ng'ama ohero somo biro yudo ngima maber.,Luo
+Loch maber biro a e chuny mar ng'at maber.,Luo
+Gima ipar kawuono biro kony dwe machielo.,Luo
+Yaye ne wer wer e ot kar lamo.,Luo
+Tiyo gi chuny duto e tich mimiyi en ber.,Luo
+Oganda joluo nigi siko mabeyo moloyo mang'eny.,Luo
+Omera koth ochako chue koro wadhi e ot.,Luo
+Nimedownload app mpya kwa phone yangu.,Mixed
+Tafadhali nisaidie ku-print document hii haraka.,Mixed
+Niko on my way nakuja saa moja.,Mixed
+Hiyo laptop yako iko slow sana leo.,Mixed
+Naomba ukague email yako kwa details zaidi.,Mixed
+Tumefika airport saa mbili before time yetu.,Mixed
+Kesho tuna test ya math saa nne asubuhi.,Mixed
+Unaweza ku-share screen yako kwa meeting?,Mixed
+Nimeweka reminder kwa phone yangu ya appointment.,Mixed
+Hiyo WiFi inafanya kazi vibaya sana leo.,Mixed
+Tutaonana kwa event ya Friday usiku hapa.,Mixed
+Nimejaza form yote na kusubmit online.,Mixed
+Tafadhali confirm attendance yako kwa event hii.,Mixed
+Nimemaliza ku-edit video yangu ya project.,Mixed
+Unaenda gym saa ngapi leo jioni?,Mixed
+Nimepata internship kwa kampuni nzuri mjini.,Mixed
+Tukutane kwa coffee kesho asubuhi saa tatu.,Mixed
+Nimesoma notes zangu zote kwa exam ya kesho.,Mixed
+Hiyo presentation yako ilikuwa very impressive sana.,Mixed
+Nimetuma CV yangu kwa jobs tano wiki hii.,Mixed
+Unaweza kunisaidia ku-fix bug hii kwa code?,Mixed
+Nimepanga kufanya shopping baada ya class leo.,Mixed
+Tafadhali usiforget kulipa rent mwezi huu.,Mixed
+Niko kwa library nikiread kwa exam ya Thursday.,Mixed
+Hiyo network coverage hapa ni mbaya sana.,Mixed
+Tunaenda road trip Nakuru weekend ijayo.,Mixed
+Nimepiga picha nyingi kwa camera yangu mpya.,Mixed
+Please usinisumbue niko kwa class saa hii.,Mixed
+Nimekuwa nikiwatch series mpya kwa Netflix usiku.,Mixed
+Hiyo bei ya petrol imepanda tena wiki hii.,Mixed
+Tunaenda kuosha gari baada ya lunch saa hii.,Mixed
+Nimefika town naomba unipatie your location sasa.,Mixed
+Hiyo hadithi uliyosimulia ilikuwa so touching sana.,Mixed
+Nimetry ku-call lakini simu yako haikuwa reachable.,Mixed
+The lecturer cancelled the afternoon class without notice.,English
+She submitted her assignment five minutes before the deadline.,English
+The campus Wi-Fi is extremely slow during peak hours.,English
+He borrowed a textbook from the university library.,English
+The graduation ceremony will be held next Saturday.,English
+She is pursuing a degree in computer science.,English
+The internship program starts at the beginning of next month.,English
+He attended a workshop on machine learning last week.,English
+The student council organized a debate competition.,English
+She passed all her units in the supplementary exams.,English
+The new semester begins after the short holiday.,English
+He is preparing a research proposal for his supervisor.,English
+The cafeteria runs out of food by midday.,English
+She won a scholarship to study in Germany.,English
+The network was down for most of the morning.,English
+He installed a new operating system on his laptop.,English
+The professor gave an extension for the group project.,English
+She is studying for her professional certification exam.,English
+The faculty held an open day for prospective students.,English
+He submitted his project report via the online portal.,English
+The matatu fare has increased due to fuel prices.,English
+She sends money home every end of the month.,English
+He queued for hours at the government office.,English
+The boda boda riders formed an association in the estate.,English
+She opened a mobile money account for her business.,English
+He repaired his bicycle before the early morning trip.,English
+The water kiosk was closed when we arrived.,English
+She sold mandazi every morning near the school gate.,English
+He attended a community meeting about drainage issues.,English
+The estate association discussed security concerns last night.,English
+She started a small poultry business at home.,English
+He bought second-hand shoes from Gikomba market.,English
+The rain caused flooding in several parts of town.,English
+She applied for a job at a local NGO.,English
+He commutes two hours to work every single day.,English
+The power company announced scheduled outages for the week.,English
+She saved enough money to buy a small plot.,English
+He registered his business with the county government.,English
+The chief held a baraza to discuss land matters.,English
+She donated food to a children's home in her area.,English
+The new stadium will be ready before the tournament.,English
+He scored the winning goal in injury time.,English
+The coach praised the team's defensive performance.,English
+She trained every morning before school started.,English
+The tournament was postponed due to heavy rains.,English
+He joined the school swimming team this term.,English
+The national team departed for the regional championships.,English
+She ran the half marathon in under two hours.,English
+The referee made a controversial decision in the second half.,English
+He received a yellow card for a foul tackle.,English
+Scientists have developed a new malaria vaccine.,English
+The hospital introduced digital patient records this year.,English
+She visited the nutritionist for a dietary assessment.,English
+He was advised to rest for two weeks after surgery.,English
+The government expanded free healthcare to more counties.,English
+She took her child for the routine immunization visit.,English
+The new clinic opened in the underserved rural area.,English
+He recovered quickly thanks to early treatment.,English
+The mental health awareness campaign reached thousands.,English
+She found a therapist who specializes in trauma.,English
+Farmers in the region are adopting drip irrigation.,English
+The cooperative sold maize at a fair market price.,English
+She planted a kitchen garden behind her house.,English
+He harvested enough beans to last through the dry spell.,English
+The county government distributed subsidized seeds to farmers.,English
+She attended a training on climate-smart agriculture.,English
+The coffee cooperative paid a good bonus this season.,English
+He lost most of his crops due to the drought.,English
+The veterinary officer vaccinated cattle in the village.,English
+She won an award at the national agricultural show.,English
+The startup secured funding from a local accelerator.,English
+She pitched her idea to a panel of investors.,English
+He is developing a fintech solution for small traders.,English
+The tech hub hosted a hackathon over the weekend.,English
+She mentors young coders at a community center.,English
+He launched a mobile app to connect farmers with buyers.,English
+The incubator accepted five new startups this cohort.,English
+She attended a digital marketing masterclass online.,English
+He freelances as a graphic designer from home.,English
+The startup just crossed one million users.,English
+She wants to open a hair salon after college.,English
+He dreams of building homes for low-income families.,English
+She is saving to start a catering business.,English
+He enrolled in a short course on electrical wiring.,English
+She passed her Kenya National Examinations with flying colors.,English
+He is waiting to hear back from his university application.,English
+She helps younger students with their homework after school.,English
+He writes a blog about life in the city.,English
+She joined a gospel choir at her local church.,English
+He plans to travel to Tanzania during the long holiday.,English
+She reads at least one book every two weeks.,English
+He is learning how to play chess competitively.,English
+She donates blood every three months at the hospital.,English
+He fixed the leaking pipe before calling a plumber.,English
+She organizes neighborhood litter collection every month.,English
+He took his mother for a medical checkup in town.,English
+She gifted her father a phone on his birthday.,English
+He planted trees along the road as a community project.,English
+She prays every morning before starting her day.,English
+He has been fasting for the past three days.,English
+Mvua kubwa ilifurika barabara usiku wa jana.,Swahili
+Tumeomba msaada wa serikali kwa watu wenye uhitaji.,Swahili
+Yeye ni mwanafunzi makini anayependa kusoma sana.,Swahili
+Ndugu zangu wanakaa mbali naomba wawe salama.,Swahili
+Mwisho wa mwaka huu tutaadhimisha sherehe ya familia.,Swahili
+Hatua ya kwanza ni kujua lengo lako maishani.,Swahili
+Mti usiozaa hukatwa na mkulima mwenye busara.,Swahili
+Msomi wa leo ndiye kiongozi wa kesho.,Swahili
+Alikuwa akimhudumia mgonjwa kwa moyo wote wake.,Swahili
+Watu wa mji wanachangia ujenzi wa kisima kipya.,Swahili
+Thamani ya elimu haiwezi kupimwa kwa fedha.,Swahili
+Bibi yangu ananisimuliya hadithi za zamani kila jioni.,Swahili
+Mazao ya mashambani yanategemea mvua za msimu.,Swahili
+Kanisa letu linafanya maombi kila Jumatano usiku.,Swahili
+Wazazi wangu walisaidia sana kuniamsha maishani.,Swahili
+Mji wa Mombasa una mapokeo mazuri ya wageni.,Swahili
+Nilisafiri kwa basi kutoka Nairobi mpaka Kisumu.,Swahili
+Samaki huyu ni wa kupendeza na ladha nzuri.,Swahili
+Kondoo walikuliwa na simba usiku wa jana shambani.,Swahili
+Mtoto mchanga anahitaji maziwa ya mama kila wakati.,Swahili
+Mwanafunzi aliyefeli ataruhusiwa kufanya mtihani tena.,Swahili
+Upepo mkali ulipiga miti kadhaa barabarani leo.,Swahili
+Mzigo mzito haubebwi na mtu mmoja peke yake.,Swahili
+Yeye anapika ugali kwa ujuzi wa mama yake.,Swahili
+Hospitali ilifunguliwa na gavana katika sherehe kubwa.,Swahili
+Wimbo huu ulimbeba machozi mama yangu usiku ule.,Swahili
+Tetemeko la ardhi lilifika usiku na kutisha watu.,Swahili
+Mhandisi alitengeneza daraja jipya kwa mkakati mzuri.,Swahili
+Elimu ya awali ndiyo msingi wa maisha yote.,Swahili
+Vijiji vingi bado havina umeme wa kutosha.,Swahili
+Watoto wa mitaani wanastahili makao na huduma.,Swahili
+Yeye huamka saa kumi na mbili kila asubuhi.,Swahili
+Siku ya mazishi ilikuwa na huzuni kubwa sana.,Swahili
+Tunashukuri mvua iliyonyesha wiki hii mashambani.,Swahili
+Kipande cha ardhi kiliuzwa bei ya chini sana.,Swahili
+Twiga ana shingo ndefu kuliko wanyama wote.,Swahili
+Bonde la ufa lina mazingira ya kipekee Afrika.,Swahili
+Vyakula vya jadi vina lishe bora kuliko vya kisasa.,Swahili
+Yeye anapigapiga ngoma kwa ujuzi mkubwa sana.,Swahili
+Darasa la chekechea lilifunguliwa karibu na kanisa letu.,Swahili
+Mvua ya masika ilileta furaha kwa wakulima wengi.,Swahili
+Mji wa Eldoret unakua haraka kiuchumi sana.,Swahili
+Sungura ana tabia ya werevu katika hadithi zetu.,Swahili
+Michezo inasaidia watoto kukua wenye afya nzuri.,Swahili
+Bonde hili lina historia ndefu ya makabila mengi.,Swahili
+Yeye alisimamia mradi mkubwa wa ujenzi wa barabara.,Swahili
+Nguruwe wa mwituni waliingia shambani usiku wa juzi.,Swahili
+Hewa safi ni haki ya kila binadamu duniani.,Swahili
+Ndugu wangu amefika nyumbani baada ya safari ndefu.,Swahili
+Mwanamuziki huyo ana kipaji cha ajabu kabisa.,Swahili
+Mtoto alipata zawadi ya vitabu kwa kufaulu vizuri.,Swahili
+Barabara ya lami inafanya usafiri kuwa rahisi zaidi.,Swahili
+Mvua za vuli zilianza mapema kuliko ilivyotarajiwa.,Swahili
+Daktari alisema anahitaji kupumzika kwa wiki moja.,Swahili
+Mazungumzo ya amani yaliendelea mjini kwa siku nyingi.,Swahili
+Mama alitayarisha chakula kitamu kwa wageni wake.,Swahili
+Mwanafunzi huyu ana akili nzuri sana darasani.,Swahili
+Mkulima alipanda mbegu za mahindi kabla ya mvua.,Swahili
+Yeye huomba kila asubuhi kabla ya kuanza kazi.,Swahili
+Mtoto alilia baada ya kuumizwa na mwenzake.,Swahili
+Timu ya taifa ilicheza mechi nzuri sana nje ya nchi.,Swahili
+Mto Athi una mto mkubwa wa maji ya kutosha.,Swahili
+Watu wa pwani wanapenda ngoma za taarab sana.,Swahili
+Yeye alisaidia jirani yake kubeba mzigo mazoroni.,Swahili
+Kanali wa polisi alitoa taarifa kwa umma leo.,Swahili
+Nyumba ya wazazi wangu iko kijijini mbali na mji.,Swahili
+Shule yetu imeshinda tuzo ya shule bora wilayani.,Swahili
+Mwanasheria alitetea mshtakiwa kwa ujuzi mkubwa mahakamani.,Swahili
+Serikali ya kaunti iliweka mipango ya kuimarisha maji.,Swahili
+Ng'ombe wameuzwa sokoni kwa bei nzuri msimu huu.,Swahili
+Mtoto mkubwa alikuwa msaada mkubwa kwa familia.,Swahili
+Soko la mitumba lilikuwa na watu wengi sana leo.,Swahili
+Yeye alisimama mbele ya wote na kutoa hotuba.,Swahili
+Bwawa la samaki lilianzishwa na kijiji kwa faida yao.,Swahili
+Mganga wa jadi alitoa dawa za asili kwa mgonjwa.,Swahili
+Watu wa wilaya walikutanika kujadili mipaka yao.,Swahili
+Mtoto mdogo alipotea soko na kupatikana baadaye.,Swahili
+Mvua ilinyesha usiku wote bila kupumzika kidogo.,Swahili
+Yeye anafanya kazi mbili kujipatia kipato zaidi.,Swahili
+Harusi ya ndugu yake ilikuwa karamu nzuri sana.,Swahili
+Mchezaji mpya alionekana kuwa na talanta kubwa.,Swahili
+Mazungumzo ya biashara yalifanikiwa sana asubuhi.,Swahili
+Msaada wa kimataifa ulifika kwa watu walioathirika.,Swahili
+Yeye alisherehekea kuzaliwa kwake na familia yake.,Swahili
+Mwalimu mkuu alitoa tuzo kwa wanafunzi bora.,Swahili
+Mzigo wa maisha unamlemea lakini hasalimu amri.,Swahili
+Baba alimfundisha mtoto wake heshima na adabu.,Swahili
+Kijiji kizima kilishiriki katika sherehe ya mavuno.,Swahili
+Yeye alitunza mzee wake hadi mwisho wa maisha.,Swahili
+Kondoo walipigwa mbuzi wa hewa usiku wa Jana.,Swahili
+Chakula cha jadi cha bibi kilikuwa kitamu sana.,Swahili
+Yeye alitunza bustani yake kwa upole na uvumilivu.,Swahili
+Mwanasiasa alitembelea kijiji kabla ya uchaguzi mkubwa.,Swahili
+Mahusiano mazuri yanajengwa kwa amini na uvumilivu.,Swahili
+Ziwa la mto ulikuwa na rangi ya samawati leo.,Swahili
+Nyumba ya muda mrefu ilipigwa na umeme usiku.,Swahili
+Yeye anahamasisha vijana wake kila siku bila kuchoka.,Swahili
+Msitu wa mianzi ulikatwa bila ruhusa ya serikali.,Swahili
+Familia yake ilihamia mjini kutafuta maisha bora zaidi.,Swahili
+Maze msee tuenda kuona game ya kesho crowd itakuwa mob.,Sheng
+Buda nimegonga deal nzuri leo floor ya tatu.,Sheng
+Hiyo look yake leo ilikuwa poa kabisa freshi.,Sheng
+Wasee wa class wetu ni squad ya nguvu sana.,Sheng
+Maze nimeskia ngo mpya ya msanii huyo inabamba.,Sheng
+Buda unaenda wapi haraka hivyo leo asubuhi?,Sheng
+Hiyo chakula ya mama yako inabamba mob freshi.,Sheng
+Maze nimechoka sana leo nilikuwa nikirun errands.,Sheng
+Wasee tushike hapo baadaye leo jioni sawa sawa.,Sheng
+Buda umeshinda bet yako leo lazima unilipie.,Sheng
+Maze hiyo story ya mtaani inafurahisha sana buda.,Sheng
+Nimefika tu naomba uniambie njia haraka msee.,Sheng
+Hiyo dame alimwambia msee ukweli usiku jana.,Sheng
+Buda sina data niambie uniskumizie kidogo.,Sheng
+Maze nikiwa mtaani naskia story mob sana.,Sheng
+Hiyo job inamlipa msee mob ana maisha sawa.,Sheng
+Wasee wa block wanajua kila kitu kinachoendelea.,Sheng
+Maze nilikuwa nikitryboo kutafuta basi lakini hakuna.,Sheng
+Buda wewe unaonekana umekaa fiti sana leo.,Sheng
+Hiyo saa yake ni ya kuvutia mob kabisa.,Sheng
+Maze watu wa naija wanarun biashara hapa mob.,Sheng
+Buda umeskia habari ya msee wa corner?,Sheng
+Hiyo movie ya jana ilikuwa fire sana fam.,Sheng
+Wasee tuongee story hii vizuri kabla ya kwenda.,Sheng
+Maze nimepata offer nzuri nashangaa kama ni real.,Sheng
+Buda nisaidie kupackage hizi vitu haraka kidogo.,Sheng
+Hiyo set up yake nyumbani imekaa poa kabisa.,Sheng
+Maze msee wa pesa si rahisi kumwona hapa.,Sheng
+Wasee wa mtaa wanaona mambo yetu vibaya tu.,Sheng
+Buda hiyo beat inabamba msee lazima uiskumizie.,Sheng
+Maze nimefika kwa queue ndefu sana town leo.,Sheng
+Hiyo hadithi ulisema jana ilinigusa sana fam.,Sheng
+Buda unaona kama tutafika saa ngapi town?,Sheng
+Maze niko na kazi mob lakini pesa bado kidogo.,Sheng
+Wasee wa cyber wanajua download ya mambo yote.,Sheng
+Buda hiyo form yako iko wapi niionee kidogo.,Sheng
+Maze nimekaa hapa saa mbili bado sijachoka.,Sheng
+Hiyo mtu alinitumia makosa pesa kwa mpesa.,Sheng
+Wasee walikuwa wakizungumza mob usiku wa jana.,Sheng
+Buda nimeshinda mashindano leo lazima tushike pamoja.,Sheng
+Maze nikiwa shule nilifanya kazi mob bila kulipwa.,Sheng
+Hiyo bei imepanda sana market hii wiki.,Sheng
+Buda umeona kama kuna mkutano kesho asubuhi?,Sheng
+Maze nimeskia area yetu itapata barabara mpya.,Sheng
+Wasee wa campus wanaenda trip Mombasa wiki ijayo.,Sheng
+Buda hiyo laptop yako inafanya kazi au imekufa?,Sheng
+Maze niliomba msee anikopeshe lakini alinikatalia.,Sheng
+Hiyo game ya weekend ilikuwa na nguvu sana.,Sheng
+Buda nilikuwa nakutext lakini simu yako haikuwa reachable.,Sheng
+Maze wasee wa job wanaenda kuacha pamoja wakisema.,Sheng
+Hiyo keja ya rafiki yangu imekaa fiti mob.,Sheng
+Buda unanichekesha sana leo nimefurahi kabisa.,Sheng
+Maze nilienda kuona kama kuna nafasi bado hapo.,Sheng
+Wasee wa church walifanya program nzuri usiku jana.,Sheng
+Buda hiyo line yake ilikuwa moto sana kabisa.,Sheng
+Maze nimekaa ninasubiri reply yake kutoka asubuhi.,Sheng
+Hiyo msee anaandika muziki wa nguvu sana fam.,Sheng
+Buda tushike hapo rooftop usiku wa leo sawa.,Sheng
+Maze hapa ni kwa vibes tu tusiendelee na shida.,Sheng
+Wasee nyote mnajua story ya hiyo keja mpya.,Sheng
+Buda nimechoka na kelele za mtaani kila usiku.,Sheng
+Maze hiyo girl alikuwa na look ya moto kabisa.,Sheng
+Buda umekuwa ukifanya nini tangu tulipoachana?,Sheng
+Maze area ina msee mpya ambaye ana hustle mob.,Sheng
+Hiyo presentation yangu ilikuwa fire mbele ya watu.,Sheng
+Buda nilikuwa nafanya kazi online mpaka alfajiri leo.,Sheng
+Maze nimeskia wanaongeza fair ya matatu tena.,Sheng
+Wasee wa squad wanaulizana juu ya party ya Jumamosi.,Sheng
+Buda hiyo nguruwe uliula wapi saa hii asubuhi?,Sheng
+Maze niko tayari lakini sijui kama watu wako ready.,Sheng
+Hiyo msee ana maneno ya nguvu sana akiongea.,Sheng
+Buda tukienda town nisaidie kubeba mfuko huu.,Sheng
+Maze nimefurahi sana kumwona rafiki yangu wa zamani.,Sheng
+Wasee wa gym wanafanya kazi ngumu kila asubuhi.,Sheng
+Buda nimesikia kampuni mpya inafungua ofisi hapa.,Sheng
+Maze hiyo ngo inabamba sana nimesikia mob mara.,Sheng
+Hiyo msee alisema maneno ya moto ukumbusho.,Sheng
+Buda unaona kama tutaweza kukamilisha hii leo?,Sheng
+Maze nimepata lock ya nyumba mpya freshi kabisa.,Sheng
+Wasee wa mtaa waliadhimisha siku ya Kenya kwa nguvu.,Sheng
+Buda nimepoteza phone yangu tena mara ya tatu.,Sheng
+Maze hiyo deal ilikuwa ya moto kabisa fam.,Sheng
+Hiyo event yao ilikuwa na crowd ya nguvu mob.,Sheng
+Buda sema ukweli ulikuwa wapi wiki nzima?,Sheng
+Maze sasa ninajua jinsi ya kurun biashara yangu.,Sheng
+Wasee wa area wanajishughulisha vizuri sana hapa.,Sheng
+Buda hiyo chakula kina ladha ya moto sana.,Sheng
+Maze nimefunzwa vizuri na mtu wa kweli kabisa.,Sheng
+Hiyo mtu ana brain ya nguvu anaweza anything.,Sheng
+Buda nitakuja kukuona baadaye leo usiende mbali.,Sheng
+Maze nimepiga simu mob lakini hakuna response.,Sheng
+Wasee nyote mnajua hatua inayofuata sasa.,Sheng
+Buda hiyo project yetu inakwenda vizuri sana mpaka.,Sheng
+Maze niliulizwa swali gumu lakini nilijibu poa.,Sheng
+Hiyo msee ana flow ya nguvu sana mtaani.,Sheng
+Buda kesho tufanye meeting mapema kabla ya kazi.,Sheng
+Maze nimechoka sana leo nilikuwa running mob.,Sheng
+Wasee tushike baadaye ya leo usiku kwa real.,Sheng
+Buda hiyo maneno yako ya jana yaliniumiza sana.,Sheng
+Maze nimefanya kazi nzuri leo lazima nistahili kulala.,Sheng
+Wuora osepuonjora somo mag ndho e oganda.,Luo
+Nyathi matindo ohero mor e piny odhiambo.,Luo
+Yien mayan osedhi oko mondo olog pi.,Luo
+Joluo nigi hera maduong ni dala gi dhoot.,Luo
+Piny ohero koth ma biro e ndalo mag cham.,Luo
+Jothieth mag oganda biro mondo okonyi jotuo.,Luo
+Nyasaye miyo chuny maber ni ng'at ma ohero yore.,Luo
+Wuod ma ber en ma tiyo tich gi chuny duto.,Luo
+Gima itiyo kawuono biro miyi gima ber dwe mabiro.,Luo
+Joode duto nobiro karuok e odiechieng mer.,Luo
+Ng'ama ong'eyo somo nigi teko mar loko piny.,Luo
+Joluo ohero wer e wi tich maber.,Luo
+Yaye ne mor gi nyithindo e dala mar go.,Luo
+Osiep maber nigi dhi kodi seche duto.,Luo
+Wach adier en ma miyo chuny bedo maler.,Luo
+Puodho maber en ma ng'at tiyo e kin koth.,Luo
+Nyako ma ong'eyo tich biro yudo ohala maduong.,Luo
+Gima ipar kawuono en gima biro kony dwe machielo.,Luo
+Jogo ma ohero tich nigi ngima maber e piny.,Luo
+Wuora ne wach ni koth biro usiku wa hii.,Luo
+Nyithindo mag dala ohero chayo e namlolwe.,Luo
+Ng'at maber en ma omio kode ng'ato duto.,Luo
+Chiemo maber miyo teko ni ng'at tiyo tich.,Luo
+Gik moko duto biro bedo maber gik mapod.,Luo
+Joka dala biro karuok mondo wasik wawer.,Luo
+Osiep maber ni ng'at en gima ber moloyo.,Luo
+Yaye ne wuoyo gi chuora e ot mar lamo.,Luo
+Wuod ma ohero somo biro bedo janywol maber.,Luo
+Tiyo gi chuny en gima miyo tich bedo maber.,Luo
+Joluo nigi hera maduong ni oganda mar go.,Luo
+Nyasaye telo ni ng'at duto ma ohero yore.,Luo
+Gima itiyo mondo imiyo ng'ato en gima ber.,Luo
+Jothieth mag dala biro konyi seche mar rem.,Luo
+Wach maler en ma omiyo oganda bedo moyomber.,Luo
+Ng'ama ohero osiep biro yudo ng'ato maber.,Luo
+Puodho maber tiyo gi koth mar odiechieng.,Luo
+Wuora ne wuoyo ni biro karuok e ot.,Luo
+Nyathi ma ber en ma onego opuonjore somo.,Luo
+Gima imiyo ng'ato en gima biro duogo kodi.,Luo
+Joluo nigi hera ni oganda mar go duto.,Luo
+Tiyo tich matek en gima miyo bedo ng'at maber.,Luo
+Nyasaye omiyo chuny maber ni ng'at ohero.,Luo
+Wuod nam en ng'at ma ong'eyo pi maber.,Luo
+Gima ipar kawuono biro miyi teko dwe mabiro.,Luo
+Joka dala nigi hera maduong ni dala mar go.,Luo
+Osiep maber en ma nitie ka irembo duto.,Luo
+Yaye ne wer wer e ot kar lamo usiku.,Luo
+Nyithindo mag oganda ohero mor e ndalo duto.,Luo
+Ng'at ma ong'eyo tich biro yudo gima ohero.,Luo
+Wach adier en ma miyo chuny bedo maler duto.,Luo
+Puodho maber en gima ng'at tiyo e ndalo duto.,Luo
+Wuora ne paro ni wadhi dala e dwe mabiro.,Luo
+Nyasaye telo e yo duto ma wadhi iye saa duto.,Luo
+Gima itiyo kawuono biro kony ngima mar dwe mabiro.,Luo
+Jothieth biro mondo okonyi jotuo mag oganda duto.,Luo
+Wuod ma ber en ma ohero osiep maber.,Luo
+Joluo nigi siko mabeyo moloyo e piny duto.,Luo
+Tiyo tich gi chuny duto en gima miyo bedo.,Luo
+Nyathi ma ohero somo biro yudo ngima maber.,Luo
+Gima ipar kawuono en gima biro kony ng'at maber.,Luo
+Joka dala biro karuok e dwe ma biro geno.,Luo
+Osiep maber nigi dhi kodi e seche duto.,Luo
+Yaye ne wuoyo gi nyithindo e ot mar lamo.,Luo
+Wuora osepuonjora somo mag ndho mabeyo.,Luo
+Ng'ama ong'eyo somo nigi teko mar loko piny maber.,Luo
+Gima ber en ma omiyo oganda bedo moyomber.,Luo
+Puodho maber en ma ng'at tiyo e ndalo duto.,Luo
+Nyasaye miyo chuny maber ni ng'at ma ohero.,Luo
+Wuod ma ong'eyo tich biro yudo gima ohero.,Luo
+Joluo ohero wer e wi tich maber e seche.,Luo
+Jothieth mag oganda biro mondo okonyi jotuo duto.,Luo
+Gima imiyo ng'ato en gima biro duogo kodi duto.,Luo
+Tiyo gi chuny duto en gima miyo tich bedo.,Luo
+Wach maler en ma omiyo oganda bedo moyomber.,Luo
+Nyathi matindo ohero mor e piny odhiambo duto.,Luo
+Yien mayan osedhi oko mondo olog pi maber.,Luo
+Osiep maber nigi dhi kodi seche duto ng'ato.,Luo
+Wuor osepuonjora somo mag ndho e oganda duto.,Luo
+Gima itiyo kawuono biro miyi gima ber dwe.,Luo
+Joluo nigi hera maduong ni dala gi dhoot duto.,Luo
+Jogo ma ohero tich nigi ngima maber e piny.,Luo
+Nyasaye telo ni ng'at duto ma ohero yore.,Luo
+Wuod ma ber en ma tiyo tich gi chuny.,Luo
+Nyathi ma ong'eyo tich biro yudo ohala maduong.,Luo
+Puodho maber tiyo gi koth mar odiechieng duto.,Luo
+Gima ber en ma miyo chuny bedo maler duto.,Luo
+Joka dala nigi hera maduong ni dala mar go.,Luo
+Osiep maber en ma omiyo ng'ato duto.,Luo
+Wuora ne wuoyo ni biro karuok e ot duto.,Luo
+Nyasaye omiyo chuny maber ni ng'at ohero duto.,Luo
+Tiyo tich matek en gima miyo bedo ng'at maber.,Luo
+Wach adier en ma miyo chuny bedo maler.,Luo
+Ng'ama ohero osiep biro yudo ng'ato maber duto.,Luo
+Gima ipar kawuono biro kony ngima mar dwe.,Luo
+Joluo nigi siko mabeyo moloyo e piny.,Luo
+Nyathi ma ber en ma onego opuonjore somo duto.,Luo
+Wuod nam en ng'at ma ong'eyo pi maber duto.,Luo
+Jothieth biro konyi seche mar rem e dala.,Luo
+Nimeshinda competition leo na hii feeling ni amazing sana.,Mixed
+Tafadhali unisaidie ku-book appointment kwa clinic ya hapa.,Mixed
+Tulitembelea campus mpya na facilities zake ni world class.,Mixed
+Nilikuwa nikijaribu ku-access portal lakini ilibug sana.,Mixed
+Hebu tukubaliane on a date ya kukutana vizuri.,Mixed
+Nimepata callback baada ya interview yangu ya wiki iliyopita.,Mixed
+Hiyo software update ilifanya phone yako iwe faster.,Mixed
+Tulikuwa tukidiscuss strategy mpaka usiku wa manane.,Mixed
+Ninajua jinsi ya ku-handle hii situation vizuri kabisa.,Mixed
+Nimefanya research mob na nimeona results nzuri sana.,Mixed
+Tafadhali ni-tag kwa hiyo post yako ya leo.,Mixed
+Nilikuwa nikistream match ya jana lakini internet ilikata.,Mixed
+Tumefika destination yetu salama baada ya safari ndefu.,Mixed
+Nimesign up kwa course mpya ya online bila malipo.,Mixed
+Hiyo event itakuwa lit sana weekend ijayo kwa real.,Mixed
+Tunaomba ushirikiano kwa project hii kubwa.,Mixed
+Nimekuwa nikijaribu ku-balance kazi na masomo yangu.,Mixed
+Tafadhali niambie deadline ya hii assignment haraka.,Mixed
+Nilikuwa nikifanya research ya cybersecurity usiku wote.,Mixed
+Tumeweka target ya kukamilisha module hii wiki hii.,Mixed
+Nimecheza game mpya ambayo ni addictive sana buda.,Mixed
+Tafadhali update contacts yako kwa namba yangu mpya.,Mixed
+Hiyo hackathon wiki iliyopita ilikuwa experience ya nguvu.,Mixed
+Nimeweza ku-solve problem ile iliyonisumbua kwa muda.,Mixed
+Tutakuwa tunaendelea na training yetu Jumanne asubuhi.,Mixed
+Nimepata message kutoka kwa recruiter asubuhi leo.,Mixed
+Tafadhali confirm kama meeting ya kesho bado iko schedule.,Mixed
+Nilikuwa nikiattend webinar ya cybersecurity jana usiku.,Mixed
+Tumeweza kukamilisha project yetu kabla ya deadline.,Mixed
+Nimejaribu ku-install package lakini inakataa kufanya kazi.,Mixed
+Hiyo seminar ya AI ilikuwa ya kuvutia sana sana.,Mixed
+Tafadhali niambie kama una slot free kesho asubuhi.,Mixed
+Nimepata scholarship ya kustudy abroad naomba nifanikiwe.,Mixed
+Tutakuwa tukifanya code review ya project yetu pamoja.,Mixed
+Nimeweza ku-fix bug ile iliyokuwa inanisumbua wiki.,Mixed
+Tafadhali nipigie simu ukifika airport nikusaidie mzigo.,Mixed
+Hiyo presentation yangu ilikuwa successful sana kwa panel.,Mixed
+Nimefanya backup ya data yangu yote kwa cloud.,Mixed
+Tutaendelea na mazungumzo yetu baada ya lunch leo.,Mixed
+Nimepata notification kwamba package yangu imefika town.,Mixed
+Tafadhali share link ya article ile uliyotuma jana.,Mixed
+Nilikuwa nikiwork remotely kutoka nyumbani wiki hii.,Mixed
+Tumeweza kupitisha budget ya project baada ya meeting.,Mixed
+Nimecheki account yangu na iko sawa sawa sasa.,Mixed
+Tutashiriki kwenye competition ya robotics mwezi ujao.,Mixed
+Nimejua jinsi ya ku-automate kazi zangu za kila siku.,Mixed
+Tafadhali nisaidie ku-review code yangu kabla ya submission.,Mixed
+Hiyo AI tool mpya inaweza ku-generate content haraka.,Mixed
+Nilikuwa nikitest security ya app yetu jana usiku.,Mixed
+Tumeweza kukamilisha module ya web security leo pamoja.,Mixed
+Nimepata review nzuri kwa kazi yangu ya freelance.,Mixed
+Tafadhali check email yako kuna message ya muhimu.,Mixed
+Hiyo feature mpya ya app yetu imependwa na users.,Mixed
+Nilikuwa nikistudy Burp Suite techniques usiku jana.,Mixed
+Tumeweka plan ya kuongeza network security ya lab.,Mixed
+Nimejaribu ku-configure VM mpya kwa home lab yangu.,Mixed
+Tafadhali nisaidie ku-troubleshoot error hii kwa Kali.,Mixed
+Hiyo CTF challenge ya jana ilikuwa ngumu sana fam.,Mixed
+Nilikuwa nikirun scans za network kwa VirtualBox yangu.,Mixed
+Tumeweza ku-deploy Wazuh successfully kwa server yetu.,Mixed
+Nimepata alert kutoka Splunk inayoonyesha suspicious traffic.,Mixed
+Tafadhali share notes zako za lecture ya cybersecurity.,Mixed
+Hiyo tool ya penetration testing inafanya kazi vizuri.,Mixed
+Nilikuwa nikilearn kuhusu SQL injection attack jana.,Mixed
+Tumeweza ku-patch vulnerability ile iliyopatikana mapema.,Mixed
+Nimejaribu ku-bypass WAF kwa methods tofauti tofauti.,Mixed
+Tafadhali niambie kama Metasploitable iko up kwa lab.,Mixed
+Hiyo machine ya PortSwigger ilikuwa ya kuvutia sana.,Mixed
+Nilikuwa nikifanya path traversal labs jana usiku wote.,Mixed
+Tumeweza ku-enumerate users kwa netcat tool vizuri.,Mixed
+Nimecheki logs za Wazuh na kuna events nyingi.,Mixed
+Tafadhali help me ku-understand hii WebSocket vulnerability.,Mixed
+Hiyo conference ya tech ilikuwa na content nzuri mob.,Mixed
+Nilikuwa nikiattend Safaricom Summit na ilikuwa fire kabisa.,Mixed
+Tumeweza kulearn mambo mapya kuhusu cybersecurity trends.,Mixed
+Nimepata assignment mpya ya kuanalyze malware sample.,Mixed
+Tafadhali niambie jinsi ya ku-set up VPN yangu.,Mixed
+Hiyo lab ya cybersecurity inakua vizuri sana sasa.,Mixed
+Nilikuwa nikiread kuhusu privilege escalation techniques.,Mixed
+Tumeweza kukamilisha module ya authentication bypass vizuri.,Mixed
+Nimeweza ku-crack password hash kwa Hashcat haraka.,Mixed
+Tafadhali share resources za kujifunza OSCP preparation.,Mixed
+Hiyo CTF team yetu imeshinda competition ya wiki hii.,Mixed
+Nilikuwa nikiinstall Splunk kwa VM yangu mpya.,Mixed
+Tumeweka rules mpya za firewall kwa network yetu.,Mixed
+Nimejaribu ku-exploit vulnerability ya default credentials.,Mixed
+Tafadhali niambie status ya Windows 11 VM yetu.,Mixed
+Hiyo storage issue ya laptop yangu bado inanisumbua.,Mixed
+Nilikuwa nikifanya enumeration ya ports kwa target.,Mixed
+Tumeweza ku-map network topology ya lab vizuri.,Mixed
+Nimepata help ya kufanya dual boot ya Fedora.,Mixed
+Tafadhali nisaidie ku-configure GRUB ya system yangu.,Mixed
+Hiyo Kali Linux update ilifanya mambo mengi kubadilika.,Mixed
+Nilikuwa nikicustomize terminal yangu na Oh My Zsh.,Mixed
+Tumeweza ku-install NerdFont kwa system yetu vizuri.,Mixed
+Nimeweza kutengeneza script ya ku-automate kazi zangu.,Mixed
+Tafadhali niambie jinsi ya ku-resize partition yangu.,Mixed
+Hiyo GNOME setup yangu inaonekana fiti sana sasa.,Mixed
+Nilikuwa nikifanya ricing ya Fedora usiku wote leo.,Mixed
+Tumeweza ku-set up home lab yetu vizuri kabisa.,Mixed
+Omera mondo kel maber gima ibiro gi go.,Luo
+Nyasaye omiyo chuny maber ni dala mar go.,Luo
+Mazungumzo mazuri yanasaidia kutatua migogoro mingi.,Swahili
