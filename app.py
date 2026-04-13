@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-1. PAGE CONFIGURATION (Frontend UI) 
+# 1. PAGE CONFIGURATION (Frontend UI) 
 st.set_page_config(page_title="Kenyan Language ID", page_icon="🇰🇪", layout="centered")
 
 st.title("🌍 Language Identification System")
@@ -19,14 +19,14 @@ st.markdown("""
 """)
 st.divider()
 
-2. DATA PREPROCESSING FUNCTION 
+# 2. DATA PREPROCESSING FUNCTION 
 def clean_text(text):
     text = text.lower() # Lowercasing
     text = re.sub(r'[^\w\s]', '', text) # Removing punctuation
     text = re.sub(r'\s+', ' ', text).strip() # Removing extra spaces
     return text
 
-3. MODEL TRAINING & EVALUATION (The "Brain") 
+# 3. MODEL TRAINING & EVALUATION (The "Brain") 
 @st.cache_resource
 def train_model():
     try:
@@ -60,7 +60,7 @@ def train_model():
 
 tfidf, model, acc, cm, report, labels = train_model()
 
-4. INTERACTIVE PREDICTION SECTION 
+# 4. INTERACTIVE PREDICTION SECTION 
 st.subheader("📝 Test the AI")
 user_input = st.text_input("Enter a short sentence (English, Swahili, Sheng, or Luo):")
 
@@ -81,7 +81,7 @@ if st.button("Identify Language"):
 
 st.divider()
 
-5. EVALUATION METRICS (For the 80 Marks) 
+# 5. EVALUATION METRICS (For the 80 Marks) 
 with st.expander("📊 View Model Performance & Metrics (Lecturer Review)"):
     if acc:
         st.write(f"### Model Accuracy: {acc*100:.2f}%")
@@ -100,5 +100,5 @@ with st.expander("📊 View Model Performance & Metrics (Lecturer Review)"):
     else:
         st.info("Performance metrics will appear once data is loaded correctly.")
 
-6. FOOTER 
+# 6. FOOTER 
 st.caption("Developed for ANU BBIT Special Topics Course © 2026")
